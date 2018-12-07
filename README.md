@@ -1,8 +1,8 @@
 # Resume Management Website
 ## 
-Everone can download it and make some change. Since this is the basic version. There are a lot of problem.
+Everone can download a file and make some change. Since this is the basic version. There are a lot of problem.
 ##
-We have no database now. and the home page and create page and search page. Also the account page is not complete.
+We have no database,no home page, no create page, no search page and no css file.  Also the account page is not complete.
 ## 
 We have a lot of work to do.
 ##
