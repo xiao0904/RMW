@@ -1,5 +1,4 @@
-# RMW
-resume management website
+# Resume Management Website
 ## 
 Everone can download it and make some change. Since this is the basic version. There are a lot of problem.
 ##
