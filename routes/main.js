@@ -6,7 +6,7 @@ router.get("/", (req, res) => {
   res.render("otherlayouts/mainpage", {});
   }
   else 
-  res.send("You have to login first!");
+  res.send("You have to log in first!");
 })
 
 
